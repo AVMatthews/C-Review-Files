@@ -1,8 +1,3 @@
-/*
- * main.c: Demo starting point
- * Copyright 2019 Akhil Guliani
- */
-
 
 #include <stdio.h>
 #include "./linked_list.h"

@@ -1,7 +1,3 @@
-/*
- * linked_list.h: Simple singly linked list
- * Copyright 2019 Akhil Guliani
- */
 
 #ifndef MY_LIST_H
 #define MY_LIST_H

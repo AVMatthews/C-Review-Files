@@ -1,7 +1,3 @@
-/*
- * linked_list.c: Simple singly linked list implementation
- * Copyright 2019 Akhil Guliani
- */
 
 #include "./linked_list.h"
 
